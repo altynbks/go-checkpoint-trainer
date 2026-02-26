@@ -1,4 +1,4 @@
-# 01-checkpoint-trainer
+# go-checkpoint-trainer
 
 Training project designed to prepare for 01-edu checkpoints through structured exercises. Train like it’s a real checkpoint.
 
